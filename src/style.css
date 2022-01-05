@@ -1,16 +1,3 @@
-/* @font-face {
-  font-family: "Gilroy";
-  src: url("font/Gilroy-Regular.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Gilroy Bold";
-  src: url("font/Gilroy-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-} */
-
 body {
   background-color: #222;
   font-family: "Gilroy";
@@ -59,9 +46,6 @@ input[type="number"] {
 }
 .budget-container .app-title a b {
   font-family: "Gilroy Bold";
-}
-
-.budget-header {
 }
 
 .budget-header .balance {
@@ -225,8 +209,6 @@ input[type="number"] {
   background-repeat: no-repeat;
 }
 
-.budget-dashboard #all ul.list li.income {
-}
 .budget-dashboard #all ul.list li.expense {
   color: #f0624d;
 }
